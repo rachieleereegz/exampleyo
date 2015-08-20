@@ -1,0 +1,36 @@
+body {
+	background-image: url('../img/rach.jpg');
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: center;
+	font-family: arial, sans-serif;
+	font-size: 18px;
+	font-style: italic;
+}
+
+/*this is a comment that you can do - so fancy*/
+
+.halloween {
+	color: black;
+	background-color: orange;
+}
+
+p.test {
+	color: brown;
+	background-color: lightblue;
+}
+
+#para {
+	color: blue;
+	background-color: green;
+}
+
+.intro {
+	text-align: right;
+}
+
+.container{
+	width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+}
